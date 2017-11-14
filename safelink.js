@@ -1,26 +1,3 @@
-
-
-    About
-    Contact
-    Privacy
-    Sitemap
-
-+62821-3576-3260
-Join Our Site
-Kene Ono
-Menu
-
-    Home
-    Aplikasi
-    Bisnis Online
-    Blogging
-    Source
-    Trik Internet
-    Free Account SSH
-
-Home Blogging Tutorial Cara Membuat Blog Safelink Converter Work 100%
-
-
 var blog = document.location.hostname;
 var slug = document.location.pathname;
 var ctld = blog.substr(blog.lastIndexOf("."));
@@ -138,63 +115,6 @@ protected_links = &quot;domain.com,blogspot.com,blogger.com,linkedin.com,faceboo
 auto_safelink();
 </script>
 
-    PopularLabel
-
-    5 Aplikasi Terbaik Perekam Layar Android Tanpa Root
-    5 Aplikasi Terbaik Perekam Layar Android Tanpa Root
-    Cara Membuat Link WhatsApp Menuju Chat Langsung
-    Cara Membuat Link WhatsApp Menuju Chat Langsung
-    Cara Backup Semua Data Artikel Blog
-    Cara Backup Semua Data Artikel Blog
-    Niche Blog Adsense Bayaran Tinggi
-    Niche Blog Adsense Bayaran Tinggi
-    Download IDM v6.29 Build 2 Full Crack+Patch November 2017
-    Download IDM v6.29 Build 2 Full Crack+Patch November 2017
-
-Fanspage
-Komentar Terbaru
-
-    Dedi Islafuddin
-    Dedi IslafuddinIya bener emang harus diperhatikan dg jeli. (y) Bisa.
-    Indri Lightheaven
-    Indri LightheavenMungkin yang gagal ato error karna kalian gagal faham,, karn…
-    Dedi Islafuddin
-    Dedi Islafuddinapa mungkin dlm penerapannya masih ada yg kelewatan. silakan…
-    Dedi Islafuddin
-    Dedi Islafuddinamiin... sama" mas, semoga bermanfaat :)
-    Anggiijaz Marcellyon
-    Anggiijaz Marcellyongan yang saya pas mencet visit link ngk bsa , padahal udh bn…
-
-Artikel Terbaru
-
-    Cara Backup Semua Data Artikel Blog
-
-    Nov-13 - 2017 | No Comments
-    Cara Membuat Link WhatsApp Menuju Chat Langsung
-
-    Nov-12 - 2017 | No Comments
-    5 Aplikasi Terbaik Perekam Layar Android Tanpa Root
-
-    Nov-11 - 2017 | No Comments
-    Download IDM v6.29 Build 2 Full Crack+Patch November 2017
-
-    Nov-08 - 2017 | No Comments
-    Cara Mengajukan Banding Channel YouTube yang di Suspend
-
-    Nov-06 - 2017 | No Comments
-
-Blog Teman Lainnya
-
-    www.confignet.tk
-    mbahhanif.site
-
- 
-About Contact TOS Privacy Policy Sitemap
-Copyright © 2017 Kene Ono Blogger
-
-
-
-
-    
+   
 
     
